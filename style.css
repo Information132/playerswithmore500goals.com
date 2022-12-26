@@ -1,0 +1,39 @@
+@media only screen and (max-width:800px) {
+    /* For tablets: */
+    .main {
+      width: 80%;
+      padding: 0;
+    }
+    .right {
+      width: 100%;
+    }
+  }
+  @media only screen and (max-width:500px) {
+    /* For mobile phones: */
+    .menu, .main, .right {
+      width: 100%;
+    }
+  }
+ 
+  img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  h1 {
+    text-align: center;
+    font-size: 1.5rem;
+    letter-spacing: 1px;
+  }
+  
+td {
+   text-align: center;
+}
+
+
+
+
+
+
+  
